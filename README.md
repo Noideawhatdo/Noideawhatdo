@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noideawhatdo A.K.A Erin
 - 👀 I’m interested in ... doing things I like to do, utilizing my talents. 
-- 🌱 I’m currently learning ... to creae an app--> which i fell into as I was 
+- 🌱 I’m currently learning ... to creae an app--> which I fell into as I was 
 -   doing some investigative work on my own- which is how I came to know and love 
 -   github!
 -
